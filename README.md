@@ -16,7 +16,7 @@
    - Write down the exact steps
  
  
- ## 3.Divide 
+## 3.Divide 
  - Break the problem down into sub-problems these will be easier to solve.
  - Solve each sub-problem one by one. Begin with the simplest.
  - Once each sub-problem is solved, connect the dots.
