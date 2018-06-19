@@ -13,7 +13,7 @@
 - Give your brain time to analyze the problem and process the information.
 - Answer the question : 
   - “Given input X, what are the steps necessary to return output Y?”
-    - Write down the exact steps
+   - Write down the exact steps
  
  
  ## 3.Divide 
