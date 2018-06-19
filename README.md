@@ -28,7 +28,7 @@
 > slightly and rewrite the solution to match, and keep going until you are back where you started.”
  > — V. Anton Spraul
  
- ## 4. Stuck? 
+## 4. Stuck? 
  1. Debug: Go step by step through your solution trying to find where you went wrong. Programmers call this debugging (in fact, this is all a debugger does).
  
  
@@ -43,7 +43,7 @@
 
 - Caveat: Don’t look for a solution to the big problem. Only look for solutions to sub-problems. Why? Because unless you struggle (even a little bit), you won’t learn anything. If you don’t learn anything, you wasted your time.
  
- ## Don't forget lots of practice!
+## Don't forget lots of practice!
  
  
  
